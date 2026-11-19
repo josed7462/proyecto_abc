@@ -69,10 +69,15 @@ Remove-Item Recurse hola.txt
 ```
 
 # Ejemplo de tabla: Tabla de verdad del XOR
+
  A | B | A XOR B
  --|---|--------
  1 | 1 | 0
  1 | 0 | 1
  0 | 1 | 1
  0 | 0 | 0
+
+ # Ejemplo de emojis
+
+ :*+1: :relaxed: :grim: 
  
