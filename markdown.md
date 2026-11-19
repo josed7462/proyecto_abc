@@ -46,7 +46,7 @@ Este es un ejemplo de _**negrilla en cursiva**_
   
 # Ejemplo de una checklist: Obtener el pasaporte
 
-- [] Sacar la cita
-- [] Pagar la cita
-- [] Asistir a la cita y tomar la foto
-- [] Esperar a que salga el pasaporte
+- [x] Sacar la cita
+- [x] Pagar la cita
+- [x] Asistir a la cita y tomar la foto
+- [x] Esperar a que salga el pasaporte
