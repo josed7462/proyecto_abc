@@ -24,4 +24,23 @@ Este es un ejemplo de _**negrilla en cursiva**_
 * Azul
 * Rojo
 * Verde
+
+# Ejemplo de lista numerada: Jugadores de futbol
+
+1. Teofilo Gutierrez
+2. Lucho Diaz
+3. Cristiano
+4. Messi
+
+# Ejemplo de una lista con varios niveles: Planetas y sus lunas
+
+*Tierra
+  *Luna
+*Jupiter
+  *Calisto
+  *Ganimedes
+  *Europa
+  *Io
+*Saturno
+  *Titan
   
