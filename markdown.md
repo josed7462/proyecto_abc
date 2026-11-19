@@ -44,3 +44,9 @@ Este es un ejemplo de _**negrilla en cursiva**_
 * Saturno
   * Titan
   
+# Ejemplo de una checklist: Obtener el pasaporte
+
+- [] Sacar la cita
+- [] Pagar la cita
+- [] Asistir a la cita y tomar la foto
+- [] Esperar a que salga el pasaporte
