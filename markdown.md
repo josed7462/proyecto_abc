@@ -50,3 +50,10 @@ Este es un ejemplo de _**negrilla en cursiva**_
 - [x] Pagar la cita
 - [x] Asistir a la cita y tomar la foto
 - [x] Esperar a que salga el pasaporte
+
+# Ejemplo de citacion
+
+Mis estudiantes dijeron:
+> Profe, ya compro el GTA VI?
+>  Por que no?
+> Si es un juego buenisimo!!!
