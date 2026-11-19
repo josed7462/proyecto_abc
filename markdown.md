@@ -17,3 +17,11 @@ Este es otro ejemplo de *texto en cursiva*
 Este es un ejemplo de **texto en negrilla**
 
 Este es un ejemplo de _**negrilla en cursiva**_
+
+# Ejemplo de lista con viñetas: Lista de colores
+
+* Amarillo
+* Azul
+* Rojo
+* Verde
+  
