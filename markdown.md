@@ -59,11 +59,11 @@ Mis estudiantes dijeron:
 > Si es un juego buenisimo!!!
 
 # Snippets de codigo
-'''python
+´´´python
 print("Hola")
 print("Este es un ejemplo de codigo en python")
-'''
+´´´
 Codigo en powershell
-'''powershell
+´´´powershell
 Remove-Item Recurse hola.txt
-'''
+´´´
