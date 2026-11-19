@@ -34,13 +34,13 @@ Este es un ejemplo de _**negrilla en cursiva**_
 
 # Ejemplo de una lista con varios niveles: Planetas y sus lunas
 
-*Tierra
-  *Luna
-*Jupiter
-  *Calisto
-  *Ganimedes
-  *Europa
-  *Io
-*Saturno
-  *Titan
+* Tierra
+  * Luna
+* Jupiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titan
   
