@@ -79,5 +79,5 @@ Remove-Item Recurse hola.txt
 
  # Ejemplo de emojis
 
-:relaxed: :grim:  
+:relaxed: :octocat:  
  
